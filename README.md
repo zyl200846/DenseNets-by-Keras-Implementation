@@ -9,7 +9,7 @@ Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: ht
   <br>year={2017}</br>
 }
 
-Introduction to each folder and file:
+Introduction to each folder and file:</br>
 "Data": put the CIFAR-100 data set here
 "log": training log for model with no augmentation, relates to main.py
 "Pictures": the place store generated visualized samples, relates to get_img_samples_and_conv_results.py
