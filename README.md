@@ -1,9 +1,7 @@
 **Keras implementation of DenseNets**
 
 Original paper: https://arxiv.org/abs/1608.06993
-
 Original implementation: https://github.com/liuzhuang13/DenseNet
-
 
 @inproceedings{huang2017densely,
   title={Densely connected convolutional networks},
@@ -11,7 +9,6 @@ Original implementation: https://github.com/liuzhuang13/DenseNet
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   year={2017}
 }
-
 
 Introduction to each folder and file:
 "Data": put the CIFAR-100 data set here
