@@ -10,7 +10,7 @@ Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: ht
   &emsp;&emsp;year={2017}</br>
 }
 
-Introduction to each folder and file:</br>
+**Introduction to each folder and file:**</br>
 "Data": put the CIFAR-100 data set here</br>
 "log": training log for model with no augmentation, relates to main.py</br>
 "Pictures": the place store generated visualized samples, relates to get_img_samples_and_conv_results.py</br>
@@ -20,18 +20,13 @@ Introduction to each folder and file:</br>
               &emsp;&emsp; ** utils: some functions used to visualize samples from data set</br>
 "weights": stores trained model weights with no augmentation</br></br>
 
-
-main.py: run this Python script if you want to test the data with no augmentation
-main_aug.py: run this Python script if you want to evaluate data with augmentation
-model.py: model building using Keras
+main.py: run this Python script if you want to test the data with no augmentation</br>
+main_aug.py: run this Python script if you want to evaluate data with augmentation</br>
+model.py: model building using Keras</br>
 predict.py: Run this Python script to see predicted results and generate confusion matrix, change file names
-            or file paths to get corresponding data for successful running
-
-
+            or file paths to get corresponding data for successful running</br></br>
 
 Notice: this is the re-implementation of DenseNets, but not detailed ones as same as the original paper.
-        Differences like pre-processing, normalize method and hyper-parameters settings.
+        Differences like pre-processing, normalize method and hyper-parameters settings.</br>
 
-
-
-If you have any problem, please contact Jielong ZHONG with email: jielong26@outlook.com
+If you have any problem, please contact Jielong ZHONG with email: jielong26@outlook.com</br>
