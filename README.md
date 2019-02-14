@@ -24,7 +24,7 @@ Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: ht
 &emsp; main_aug.py: run this Python script if you want to evaluate data with augmentation</br>
 &emsp; model.py: model building using Keras</br>
 &emsp; predict.py: Run this Python script to see predicted results and generate confusion matrix, change file names or file</br>
-                   paths to get corresponding data for successful running</br></br>
+&emsp;&emsp;&emsp;&emsp;paths to get corresponding data for successful running</br></br>
 
 Notice: this is the re-implementation of DenseNets, but not detailed ones as same as the original paper.
         Differences like pre-processing, normalize method and hyper-parameters settings.</br>
