@@ -3,10 +3,10 @@
 Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: https://github.com/liuzhuang13/DenseNet</br>
 
 @inproceedings{huang2017densely,
-  <br>title={Densely connected convolutional networks},</br>
-  <br>author={Huang, Gao and Liu, Zhuang and van der Maaten, Laurens and Weinberger, Kilian Q },</br>
-  <br>booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},</br>
-  <br>year={2017}</br>
+  &emsp;&emsp;title={Densely connected convolutional networks},</br>
+  &emsp;&emsp;author={Huang, Gao and Liu, Zhuang and van der Maaten, Laurens and Weinberger, Kilian Q },</br>
+  &emsp;&emsp;booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},</br>
+  &emsp;&emsp;year={2017}</br>
 }
 
 Introduction to each folder and file:</br>
