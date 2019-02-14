@@ -15,9 +15,9 @@ Introduction to each folder and file:</br>
 "log": training log for model with no augmentation, relates to main.py</br>
 "Pictures": the place store generated visualized samples, relates to get_img_samples_and_conv_results.py</br>
 "Preprocess": the folder stores pre-processing files</br>
-              &emsp;&emsp&emsp;&emsp** load_data.py: load CIFAR-100 data set</br>
-              &emsp;&emsp** normalize.py: functions used to normalize data by mean and variance way</br>
-              &emsp;&emsp** utils: some functions used to visualize samples from data set</br>
+              &emsp;&emsp; ** load_data.py: load CIFAR-100 data set</br>
+              &emsp;&emsp; ** normalize.py: functions used to normalize data by mean and variance way</br>
+              &emsp;&emsp; ** utils: some functions used to visualize samples from data set</br>
 "weights": stores trained model weights with no augmentation</br></br>
 
 
