@@ -11,14 +11,14 @@ Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: ht
 }
 
 Introduction to each folder and file:</br>
-"Data": put the CIFAR-100 data set here
-"log": training log for model with no augmentation, relates to main.py
-"Pictures": the place store generated visualized samples, relates to get_img_samples_and_conv_results.py
-"Preprocess": the folder stores pre-processing files
-              ** load_data.py: load CIFAR-100 data set
-              ** normalize.py: functions used to normalize data by mean and variance way
-              ** utils: some functions used to visualize samples from data set
-"weights": stores trained model weights with no augmentation
+"Data": put the CIFAR-100 data set here</br>
+"log": training log for model with no augmentation, relates to main.py</br>
+"Pictures": the place store generated visualized samples, relates to get_img_samples_and_conv_results.py</br>
+"Preprocess": the folder stores pre-processing files</br>
+              &emsp;&emsp&emsp;&emsp** load_data.py: load CIFAR-100 data set</br>
+              &emsp;&emsp** normalize.py: functions used to normalize data by mean and variance way</br>
+              &emsp;&emsp** utils: some functions used to visualize samples from data set</br>
+"weights": stores trained model weights with no augmentation</br></br>
 
 
 main.py: run this Python script if you want to test the data with no augmentation
