@@ -27,5 +27,3 @@ Original paper: https://arxiv.org/abs/1608.06993 <br>Original implementation: ht
 
 Notice: this is the re-implementation of DenseNets, but not detailed ones as same as the original paper.
         Differences like pre-processing, normalize method and hyper-parameters settings.</br>
-
-If you have any problem, please contact Jielong ZHONG with email: jielong26@outlook.com</br>
